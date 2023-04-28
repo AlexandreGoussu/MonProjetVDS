@@ -1,0 +1,11 @@
+{
+  "require": {
+    "phpmailer/phpmailer": "^6.6",
+    "gumlet/php-image-resize" : " 2.0.* ",
+    "ifsnop/mysqldump-php" : "^2.10",
+    "guzzlehttp/guzzle": "^7.5",
+    "ext-mbstring": "*",
+    "ext-mysqli": "*",
+    "ext-pdo": "*"
+  }
+}
